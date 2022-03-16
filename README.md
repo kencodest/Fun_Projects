@@ -1,1 +1,1 @@
-This is a repo where I code simple apps I stumble across
+This is a repo where I code simple app ideas I stumble across
