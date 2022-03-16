@@ -1,6 +1,8 @@
-I once had a friend whose job was to count cars that pass by the road. I coded this simple app that keeps enables them to count cars at the tap of a button. It is built in HTML, CSS and JavaScript.
+A friend had a task of counting cars that passed by the road. I coded this simple app that allows them to count cars at the tap of a button. It is built in HTML, CSS and JavaScript.
 It can be customised to a counter of your choice.
-I also came across this idea on Scrimba. CHeck them out!
+
+
+I came across this idea at Scrimba. Check them out!
 
 
 ## Supporting Scrimba
