@@ -1,0 +1,87 @@
+/* There is a bug I need to figure out. I do not mind some help figuring that out */
+/* The / on line 26 has been left on purpose bacause it is affecting page behaviour as the page gets smaller */
+/* There is need to figure out why it has this effect*/
+html {
+    height: 100vh;
+    font-family: Baloo;
+}
+
+body {
+    padding: 10px;
+    background-image: linear-gradient(#5DA4D9, #FFF);
+}
+
+.container {
+    background: rgba(0,0,0,0.3);
+    padding: 0 100px;
+    border-radius: 20px;
+    /* max-width: 1000px; */
+    display: inline-block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/
+
+#emoji-container {
+    margin: 40px;
+    text-align: center;
+    
+}
+
+#emoji-container span {
+    margin: 10px;
+    font-size: 60px;
+}
+
+#push-btn,#unshift-btn {
+    background-color: #80D87F;
+}
+
+#shift-btn,#pop-btn {
+    background-color: #E23349;
+}
+
+h1 {
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+}
+
+
+input {
+    margin: 0 auto;
+    display: block;
+    border: none;
+    height: 30px;
+    background: white;
+    border-radius: 6px;
+    text-align: center;
+}
+
+
+button {
+    font-family: Baloo;
+    letter-spacing: px;
+    background: darkcyan;
+    color: white;
+    border: none;
+    padding: 4px 10px;
+    border-radius: 6px;
+    margin: 0 5px;
+}
+
+
+.buttons-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+
+button:hover {
+    cursor: pointer;
+}
+
